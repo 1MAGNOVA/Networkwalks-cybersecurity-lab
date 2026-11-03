@@ -25,7 +25,7 @@ Rather than focusing solely on tools, this lab emphasizes understanding the unde
 - [x] Created VirtualBox NAT Network configuration.
 - [x] Enabled DHCP on the virtual network.
 - [x] Created and configured virtual machine network settings.
-- [ ] Validate the applied IPv4 subnet.
+- [x] Validate the applied IPv4 subnet.
 - [ ] Connect participating VMs to the same NAT Network.
 - [ ] Verify IP address allocation.
 - [ ] Test inter-VM communication.
